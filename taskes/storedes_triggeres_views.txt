@@ -1,0 +1,71 @@
+Stored Procedures
+
+1=>Owner can Add and update Employees (Two parts salary and personal info)
+
+2=>Owner can create and Delete Accounts of Managers
+
+
+
+3=>Owner add, Update and Delete Service or Package
+
+4=>Owner can set monthly evaluation and calculate  
+
+
+
+5=>Manager Can Add Customer
+
+6=>Manager can Add Employee servs Customer and Services  
+
+7=>Calculate Total Cost For the Customer
+
+
+8=>set arrival time and leaving time (null) and expenses(0)
+
+9=>update leaving time 
+
+10=>update expenses 
+
+
+11=>function to make a report of custom Employee represents number of customers he serv them on custom range 
+
+12=>full report on customers (date , services or packages with its cost)
+
+====================================================================================
+Triggers
+
+1=>prevent update on arrival time and leaving time 
+
+
+2=>prevent delete and update on customer services table
+
+
+3=>prevent any one except Owner updating services and packages
+
+
+4=>insert old cost of service and package in new table 
+
+
+5=>Calculate Salary of the Employee (Arrival time - leaving time - fixed salary - expenses)
+
+===================================================================================
+Views
+
+1=>all Employee
+
+
+2=>all Customers 
+
+
+3=>all services and packages
+
+
+4=>all attendance with employee name 
+
+
+5=>customers demands custom package
+
+
+===================================================================================
+***permission for owner on editing any employee
+
+***note add Date to ternary relation on ERD

@@ -1,0 +1,263 @@
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\C# Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+E:\C#_Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\OneDrive\Desktop\iti\C#Project\Mens_Beauty_Center_DB\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\cloneC#\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\Testing\v1r1\Mens_Beauty_Center_Project\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\iti\CloneProject\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAccount.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAttendance.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddCoustomer_frm.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.LoginForm.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ManagerCategories_frm.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServiceShow.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServicesTaken.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ThePriceOfTheServicesToTheCustomer.resources
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+E:\ISA\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAccount.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAttendance.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddCoustomer_frm.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.LoginForm.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ManagerCategories_frm.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServiceShow.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServicesTaken.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ThePriceOfTheServicesToTheCustomer.resources
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\wahee\OneDrive\Desktop\Desktop app\The Mens Beauty Center app\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAccount.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAttendance.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddCoustomer_frm.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.LoginForm.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ManagerCategories_frm.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServiceShow.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServicesTaken.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ThePriceOfTheServicesToTheCustomer.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddPackageCustomer.resources
+C:\Users\moham\OneDrive\Desktop\Eslam\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageForm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAccount.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAttendance.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddCoustomer_frm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddPackageCustomer.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.LoginForm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ManagerCategories_frm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageForm.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServiceShow.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServicesTaken.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ThePriceOfTheServicesToTheCustomer.resources
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+C:\Users\wahee\OneDrive\Desktop\New folder (3)\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe.config
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.exe
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\Mens_Beauty_Center.pdb
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.dll
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.dll
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.xml
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\bin\Debug\EntityFramework.SqlServer.xml
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.AssemblyReference.cache
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAccount.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddAttendance.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddCoustomer_frm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AddPackageCustomer.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.AllCustomers_frm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Attendane_frm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Categories.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.EmployeeShow.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Evaluation_frm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.LoginForm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ManagerCategories_frm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageForm.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.PackageTotal.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.Properties.Resources.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServiceShow.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ServicesTaken.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.ThePriceOfTheServicesToTheCustomer.resources
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.GenerateResource.cache
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.csproj.CoreCompileInputs.cache
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Bea.6EE0052A.Up2Date
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.exe
+D:\ISA\Mens_Beauty_Center\Mens_Beauty_Center\Mens_Beauty_Center\Project\Mens_Beauty_Center\Mens_Beauty_Center\obj\Debug\Mens_Beauty_Center.pdb
